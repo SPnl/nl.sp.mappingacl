@@ -1,0 +1,13 @@
+{
+    "name": "spnl/nl.sp.mappingacl",
+    "description": "Adds ACL functionality for using import/export mappings",
+    "type": "civicrm-module",
+    "license": "AGPL-3.0",
+    "authors": [
+        {
+            "name": "Jaap Jansma",
+            "email": "jaap@edeveloper.nl"
+        }
+    ],
+    "require": {}
+}
